@@ -4,7 +4,7 @@ Finished Or Not Finished, Pass Your Papers.
 
 Still Not RTM So This Is Open For Collabs.
 
-~ alCoPaUL, HAsAsIN [NaCl], beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI]
+~ alCoPaUL, HAsAsIN [NaCl], beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 April 21, 2026, NYC
 
 #
