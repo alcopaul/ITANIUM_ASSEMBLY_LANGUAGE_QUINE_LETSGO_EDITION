@@ -10,7 +10,7 @@ Updates:
 
 04/25/2026 - Added hoy.c
 
-04/23/2026 - Added Sickle8.o, Sickle8.o.asm & 2026-04-23 11-08-18.png
+04/23/2026 - Added Sickle8.o, Sickle8.o.asm & Screenshot From 2026-04-23 11-08-18.png
 
 ~ alCoPaUL, HAsAsIN [NaCl], beth GviLLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 April 21, 2026, NYC
