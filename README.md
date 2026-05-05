@@ -6,6 +6,8 @@ Still Not RTM So This Is Open For Collabs.
 
 Updates:
 
+05/05/2026 - Added qia64.asm, qia64.o, Screenshot From 2026-05-05 12-52-27-1.png, Screenshot From 2026-05-05 12-52-49.png, Screenshot From 2026-05-05 12-54-20.png & Screenshot From 2026-05-05 12-54-37.png
+
 05/04/2026 - Added ia64q.asm, ia64q1.asm, 1188p.pdf, Screenshot From 2026-05-04 17-10-29.png & Screenshot From 2026-05-04 17-11-15.png
 
 04/30/2026 - Added itani.um, Sickle888.o, Sickle888.o.asm, Sickle888.OUT, Screenshot From 2026-04-30 14-56-35.png & Screenshot From 2026-04-30 14-56-57.png
